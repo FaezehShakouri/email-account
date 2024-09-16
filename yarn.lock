@@ -861,7 +861,7 @@
     lodash "^4.17.15"
     ts-essentials "^7.0.1"
 
-"@typechain/hardhat@^9.0.0":
+"@typechain/hardhat@^9.0.0", "@typechain/hardhat@^9.1.0":
   version "9.1.0"
   resolved "https://registry.npmjs.org/@typechain/hardhat/-/hardhat-9.1.0.tgz"
   integrity sha512-mtaUlzLlkqTlfPwB3FORdejqBskSnh+Jl8AIJGjXNAQfRQ4ofHADPl1+oU7Z3pAJzmZbUXII8MhOLQltcHgKnA==

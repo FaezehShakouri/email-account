@@ -1,3 +1,6 @@
 [submodule "bundler"]
 	path = bundler
 	url = https://github.com/eth-infinitism/bundler
+[submodule "lib/bundler"]
+	path = lib/bundler
+	url = https://github.com/eth-infinitism/bundler
