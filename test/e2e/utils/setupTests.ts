@@ -1,5 +1,5 @@
 import { ethers, NonceManager } from "ethers";
-import DeterministicDeployer from "../../../lib-ts/deterministic-deployer/DeterministicDeployer";
+import DeterministicDeployer from "../../../scripts/deterministic-deployer/DeterministicDeployer";
 import receiptOf from "./receiptOf";
 import makeDevFaster from "./makeDevFaster";
 import { getSigners } from "./getSigners";
